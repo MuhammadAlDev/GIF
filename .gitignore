@@ -1,0 +1,16 @@
+# Ignore configuration files
+app/config/config.php
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore vendor directory if using Composer
+/vendor/
+
+# Ignore node_modules if using npm
+/node_modules/
